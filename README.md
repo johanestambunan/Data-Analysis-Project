@@ -24,7 +24,12 @@ Each project reflects my end-to-end analytical workflow—from understanding the
 
 ## Contact
 
-Feel free to connect with me!
+## 📫 Contact
+
+Thank you for visiting my portfolio!
+
+If you'd like to discuss a project, collaborate, or simply connect, feel free to reach out.
+
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/johanestbn)
 - Email: johanesfrans2002@gmail.com
