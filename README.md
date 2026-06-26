@@ -26,5 +26,5 @@ Each project reflects my end-to-end analytical workflow—from understanding the
 
 Feel free to connect with me!
 
-- LinkedIn: https://www.linkedin.com/in/johanestbn
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/johanestbn)
 - Email: johanesfrans2002@gmail.com
