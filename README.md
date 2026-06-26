@@ -14,11 +14,15 @@ Each project reflects my end-to-end analytical workflow—from understanding the
 
 ---
 
-## Notes
+## 📝 About This Repository
 
-- Each project folder contains the source files, screenshots, and a dedicated README.
-- Dashboard previews are available in each project folder.
-- More projects will be added as I continue learning.
+This repository is continuously updated as I complete new data analytics projects and learn new tools.
+
+Each project includes:
+- A project overview
+- The dataset (when publicly available)
+- Dashboard screenshots or visualizations
+- Key findings and business insights
 
 ---
 
