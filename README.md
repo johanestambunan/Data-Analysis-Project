@@ -6,12 +6,11 @@ I'm passionate about using data to uncover insights and solve business problems.
 
 Each project reflects my end-to-end analytical workflow—from understanding the dataset and preparing the data to communicating findings through clear visualizations and business recommendations.
 
-## Tools & Skills Demonstrated
+## 🛠️ Tools & Skills Demonstrated
 
-- **Excel:** Pivot tables, conditional formatting, dashboards, XLOOKUP, Index-Match, Multiple IF
-- **SQL (MySQL):** SELECT, WHERE, GROUP BY, ORDER BY, LIMIT, Aggregation
-- **Power BI:** Interactive dashboards, DAX, Power Query, Data Modeling
-
+- **Microsoft Excel:** Pivot Tables, XLOOKUP, INDEX-MATCH, Conditional Formatting, Interactive Dashboards
+- **SQL (MySQL):** Data querying, filtering, aggregation, joins, sorting, and basic database analysis
+- **Power BI:** Data modeling, Power Query, DAX, interactive dashboards, and data visualization
 ---
 
 ## 📝 About This Repository
