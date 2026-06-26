@@ -22,8 +22,6 @@ Each project reflects my end-to-end analytical workflow—from understanding the
 
 ---
 
-## Contact
-
 ## 📫 Contact
 
 Thank you for visiting my portfolio!
