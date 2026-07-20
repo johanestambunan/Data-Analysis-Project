@@ -1,0 +1,22 @@
+HOUSEHOLD ELECTRICITY ANALYTICS — PORTFOLIO SUMMARY
+
+Period: 16 Dec 2006 – 13 Dec 2008
+Observations: 1,048,575
+Raw missing measurements: 4,069
+Short-gap values imputed: 193
+Complete days used for core analysis: 723
+
+Key insights
+- Average complete-day consumption: 26.59 kWh
+- Weekend uplift: 22.39%
+- Peak average hour: 21:00
+- Peak complete day: 2006-12-23 (79.56 kWh)
+- High-usage anomalies: 16
+- Other-equipment share: 53.51%
+
+Main deliverables
+- Streamlit dashboard: app.py
+- Analysis notebook: notebooks/household_electricity_analysis.ipynb
+- Reusable pipeline: src/data_pipeline.py
+- Processed data: data/processed/
+- Portfolio documentation: README.md
