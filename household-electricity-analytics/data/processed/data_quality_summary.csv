@@ -1,0 +1,7 @@
+metric,value
+Raw observations,1048575
+Raw rows with missing measurements,4069
+Short-gap rows imputed,193
+Rows left missing after cleaning,3876
+Complete days (coverage ≥95%),723
+Low-coverage days,6
